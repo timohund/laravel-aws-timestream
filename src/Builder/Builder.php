@@ -1,13 +1,13 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Builder;
+namespace Parkingcrew\AwsTimestream\Builder;
 
 use Closure;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use Illuminate\Support\Stringable;
-use NorbyBaru\AwsTimestream\Concerns\BuildersConcern;
-use NorbyBaru\AwsTimestream\Contract\QueryBuilderContract;
+use Parkingcrew\AwsTimestream\Concerns\BuildersConcern;
+use Parkingcrew\AwsTimestream\Contract\QueryBuilderContract;
 
 abstract class Builder implements QueryBuilderContract
 {

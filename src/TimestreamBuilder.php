@@ -1,12 +1,12 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream;
+namespace Parkingcrew\AwsTimestream;
 
 use Illuminate\Support\Carbon;
-use NorbyBaru\AwsTimestream\Builder\Builder;
-use NorbyBaru\AwsTimestream\Builder\PayloadBuilder;
-use NorbyBaru\AwsTimestream\Builder\TimestreamQueryBuilder;
-use NorbyBaru\AwsTimestream\Contract\PayloadBuilderContract;
+use Parkingcrew\AwsTimestream\Builder\Builder;
+use Parkingcrew\AwsTimestream\Builder\PayloadBuilder;
+use Parkingcrew\AwsTimestream\Builder\TimestreamQueryBuilder;
+use Parkingcrew\AwsTimestream\Contract\PayloadBuilderContract;
 
 class TimestreamBuilder
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests;
+namespace Parkingcrew\AwsTimestream\Tests;
 
 use Illuminate\Foundation\Testing\WithFaker;
-use NorbyBaru\AwsTimestream\Tests\Fixtures\Traits\ConfigurableTrait;
-use NorbyBaru\AwsTimestream\TimestreamServiceProvider;
+use Parkingcrew\AwsTimestream\Tests\Fixtures\Traits\ConfigurableTrait;
+use Parkingcrew\AwsTimestream\TimestreamServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
 abstract class TestCase extends OrchestraTestCase

@@ -1,8 +1,8 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests\Feature;
+namespace Parkingcrew\AwsTimestream\Tests\Feature;
 
-use NorbyBaru\AwsTimestream\Tests\TestCase;
+use Parkingcrew\AwsTimestream\Tests\TestCase;
 
 class ReaderFeatureTest extends TestCase
 {

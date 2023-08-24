@@ -1,6 +1,6 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Contract;
+namespace Parkingcrew\AwsTimestream\Contract;
 
 use Illuminate\Support\Carbon;
 

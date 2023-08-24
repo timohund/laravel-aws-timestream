@@ -1,11 +1,11 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests\Unit;
+namespace Parkingcrew\AwsTimestream\Tests\Unit;
 
-use NorbyBaru\AwsTimestream\Builder\Builder;
-use NorbyBaru\AwsTimestream\Builder\TimestreamQueryBuilder;
-use NorbyBaru\AwsTimestream\Tests\TestCase;
-use NorbyBaru\AwsTimestream\TimestreamBuilder;
+use Parkingcrew\AwsTimestream\Builder\Builder;
+use Parkingcrew\AwsTimestream\Builder\TimestreamQueryBuilder;
+use Parkingcrew\AwsTimestream\Tests\TestCase;
+use Parkingcrew\AwsTimestream\TimestreamBuilder;
 
 class QueryBuilderUnitTest extends TestCase
 {

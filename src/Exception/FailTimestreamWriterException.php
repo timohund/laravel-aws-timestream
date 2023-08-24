@@ -1,6 +1,6 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Exception;
+namespace Parkingcrew\AwsTimestream\Exception;
 
 class FailTimestreamWriterException extends TimestreamException
 {

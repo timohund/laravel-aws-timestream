@@ -1,9 +1,9 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Concerns;
+namespace Parkingcrew\AwsTimestream\Concerns;
 
 use Illuminate\Support\Str;
-use NorbyBaru\AwsTimestream\Builder\Builder;
+use Parkingcrew\AwsTimestream\Builder\Builder;
 
 trait BuildersConcern
 {
